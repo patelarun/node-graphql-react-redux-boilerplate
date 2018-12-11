@@ -1,0 +1,13 @@
+export const ADD_PRODUCT = 'REQUEST_ADD_PRODUCT';
+export const ADD_PRODUCT_SUCCESS = 'ADD_PRODUCT_SUCCESS';
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS';
+export const FETCH_PRODUCTS_SUCCESS = 'FETCH_PRODUCTS_SUCCESS';
+export const GET_USER = 'GET_USER';
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const REGISTER_USER = 'REGISTER_USER';
+export const REGISTER_USER_SUCCESS = 'REGISTER_USER_SUCCESS';
+export const SET_ERRORS = 'SET_ERRORS';
+export const SET_TOKEN = 'SET_TOKEN';
+export const SET_USER = 'SET_USER';
